@@ -1,0 +1,64 @@
+C:\Users\juliu\Documents\semestr5\gk\Gk_Lab1_2\bin\Debug\Graf_kom.exe
+C:\Users\juliu\Documents\semestr5\gk\Gk_Lab1_2\bin\Debug\Graf_kom.pdb
+C:\Users\juliu\Documents\semestr5\gk\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.AssemblyReference.cache
+C:\Users\juliu\Documents\semestr5\gk\Gk_Lab1_2\obj\Debug\Graf_kom.f_graf_kom.resources
+C:\Users\juliu\Documents\semestr5\gk\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.GenerateResource.cache
+C:\Users\juliu\Documents\semestr5\gk\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.CoreCompileInputs.cache
+C:\Users\juliu\Documents\semestr5\gk\Gk_Lab1_2\obj\Debug\Graf_kom.exe
+C:\Users\juliu\Documents\semestr5\gk\Gk_Lab1_2\obj\Debug\Graf_kom.pdb
+C:\Users\mbieg\OneDrive\Dokumenty\julek\moje\Gk_Lab1_2\bin\Debug\Graf_kom.exe
+C:\Users\mbieg\OneDrive\Dokumenty\julek\moje\Gk_Lab1_2\bin\Debug\Graf_kom.pdb
+C:\Users\mbieg\OneDrive\Dokumenty\julek\moje\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.AssemblyReference.cache
+C:\Users\mbieg\OneDrive\Dokumenty\julek\moje\Gk_Lab1_2\obj\Debug\Graf_kom.f_graf_kom.resources
+C:\Users\mbieg\OneDrive\Dokumenty\julek\moje\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.GenerateResource.cache
+C:\Users\mbieg\OneDrive\Dokumenty\julek\moje\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.CoreCompileInputs.cache
+C:\Users\mbieg\OneDrive\Dokumenty\julek\moje\Gk_Lab1_2\obj\Debug\Graf_kom.exe
+C:\Users\mbieg\OneDrive\Dokumenty\julek\moje\Gk_Lab1_2\obj\Debug\Graf_kom.pdb
+C:\Users\juliu\Documents\semestr5\gk\LAB2\Gk_Lab1_2\bin\Debug\Graf_kom.exe
+C:\Users\juliu\Documents\semestr5\gk\LAB2\Gk_Lab1_2\bin\Debug\Graf_kom.pdb
+C:\Users\juliu\Documents\semestr5\gk\LAB2\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.AssemblyReference.cache
+C:\Users\juliu\Documents\semestr5\gk\LAB2\Gk_Lab1_2\obj\Debug\Graf_kom.f_graf_kom.resources
+C:\Users\juliu\Documents\semestr5\gk\LAB2\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.GenerateResource.cache
+C:\Users\juliu\Documents\semestr5\gk\LAB2\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.CoreCompileInputs.cache
+C:\Users\juliu\Documents\semestr5\gk\LAB2\Gk_Lab1_2\obj\Debug\Graf_kom.exe
+C:\Users\juliu\Documents\semestr5\gk\LAB2\Gk_Lab1_2\obj\Debug\Graf_kom.pdb
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2\bin\Debug\Graf_kom.exe
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2\bin\Debug\Graf_kom.pdb
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.AssemblyReference.cache
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2\obj\Debug\Graf_kom.f_graf_kom.resources
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.GenerateResource.cache
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2\obj\Debug\Graf_kom.exe
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2\obj\Debug\Graf_kom.pdb
+Y:\Gk_Lab1_2\Gk_Lab1_2\bin\Debug\Graf_kom.exe
+Y:\Gk_Lab1_2\Gk_Lab1_2\bin\Debug\Graf_kom.pdb
+Y:\Gk_Lab1_2\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.AssemblyReference.cache
+Y:\Gk_Lab1_2\Gk_Lab1_2\obj\Debug\Graf_kom.f_graf_kom.resources
+Y:\Gk_Lab1_2\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.GenerateResource.cache
+Y:\Gk_Lab1_2\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.CoreCompileInputs.cache
+Y:\Gk_Lab1_2\Gk_Lab1_2\obj\Debug\Graf_kom.exe
+Y:\Gk_Lab1_2\Gk_Lab1_2\obj\Debug\Graf_kom.pdb
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2_v2\Gk_Lab1_2\bin\Debug\Graf_kom.exe
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2_v2\Gk_Lab1_2\bin\Debug\Graf_kom.pdb
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2_v2\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.AssemblyReference.cache
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2_v2\Gk_Lab1_2\obj\Debug\Graf_kom.f_graf_kom.resources
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2_v2\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.GenerateResource.cache
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2_v2\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2_v2\Gk_Lab1_2\obj\Debug\Graf_kom.exe
+C:\Users\Bartosz Baniak\Desktop\Gk_Lab1_2_v2\Gk_Lab1_2\obj\Debug\Graf_kom.pdb
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Gk_Lab1_2\bin\Debug\Graf_kom.exe
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Gk_Lab1_2\bin\Debug\Graf_kom.pdb
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.AssemblyReference.cache
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Gk_Lab1_2\obj\Debug\Graf_kom.f_graf_kom.resources
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.GenerateResource.cache
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Gk_Lab1_2\obj\Debug\Graf_kom.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Gk_Lab1_2\obj\Debug\Graf_kom.exe
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Gk_Lab1_2\obj\Debug\Graf_kom.pdb
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Computer-graphics-task-1\bin\Debug\Graf_kom.exe
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Computer-graphics-task-1\bin\Debug\Graf_kom.pdb
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Computer-graphics-task-1\obj\Debug\Graf_kom.csproj.AssemblyReference.cache
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Computer-graphics-task-1\obj\Debug\Graf_kom.f_graf_kom.resources
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Computer-graphics-task-1\obj\Debug\Graf_kom.csproj.GenerateResource.cache
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Computer-graphics-task-1\obj\Debug\Graf_kom.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Computer-graphics-task-1\obj\Debug\Graf_kom.exe
+C:\Users\Bartosz Baniak\Desktop\Computer-graphics-task-1\Computer-graphics-task-1\obj\Debug\Graf_kom.pdb
